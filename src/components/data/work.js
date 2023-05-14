@@ -1,34 +1,34 @@
 export const WorkData = [
     {
-        company: "Webdéveloppeur, freelance" ,
-        designation: "Webdéveloppeur",
-        dateJoining: "2019",
-        dateEnd: "2022",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537338.png",
-        work:"Sur demandes, Webdéveloppeur et conseil IT en freelance, notamment en Suisse",
+        company: "Enset MOHAMMEDIA" ,
+        designation: "Software Engineer Student",
+        dateJoining: "2021",
+        dateEnd: "Current",
+        companyLogo:require("../../assets/icons/LOGO-FR-ENSET-3.png"),
+        work:"Engineering student in software engineering and distributed computer systems at ENSET MOHAMMEDIA"
     },
     {
-        company: "Certificat de Webdéveloppeur - Becode" ,
-        designation: "W",
-        dateJoining: "21.05.2022",
-        dateEnd: "06.12.2019",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Certificat Obtenu auprès de becode.org au Pôle image de Liège, avec un stage chew Mwesto Labs - Liège"
+        company: "EST CASABLANCA" ,
+        designation: "Bachelor Degree",
+        dateJoining: "2020",
+        dateEnd: "2021",
+        companyLogo:require("../../assets/icons/EST.png"),
+        work:"Lp in software engineering and advanced administration of computer systems and networks at EST CASABLANCA"
     },
     {
-        company: "AESI Sciences Humaines - HeCh" ,
-        designation: "W",
-        dateJoining: "15.09.2020",
-        dateEnd: "15.08.2022",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"B2 Enseignant en Sciences Humaines, arrêté pour raisons médicales et reprise de l'activité d'informaticien"
+        company: "Ens TETOUAN" ,
+        designation: "Technical University degree",
+        dateJoining: "2018",
+        dateEnd: "2020",
+        companyLogo:require("../../assets/icons/ENS.jpg"),
+        work:"Technical University degree multimedia and web design at the Ens TETOUAN"
     },
     {
-        company: "Intérim" ,
-        designation: "W",
-        dateJoining: "2016",
-        dateEnd: "Present",
+        company: "Mansour Eddahbi M'DIC High School" ,
+        designation: "Baccalaureate",
+        dateJoining: "2017",
+        dateEnd: "2018",
         companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Horéca, Ouvrier de production, Caissier, Technicien Polyvalent en constructions modulaires, Magasinier, Gardien de tournage, Runner Cinéma, Livreur de Matelas,..."
+        work:" International Baccalaureate Mathematical Sciences A, French option.  Mansour Eddahbi M'DIC High School"
     }
 ]
